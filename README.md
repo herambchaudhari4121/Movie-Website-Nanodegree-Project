@@ -1,6 +1,6 @@
 # Movie Trailer Website
 
-...The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective images and trailer links and movie trailer website. The data should be served as a web page allowing visitors to review the movies and watch the trailers.
+...The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective images and trailer links on the website. The data should be served as a web page allowing visitors to review the movies and watch the trailers.
 
 # Installation
 
@@ -11,7 +11,7 @@
 
 1. import module name/filename.
 for example :
-import webbrowser
+import web browser
 
 2. def functionname(argument1,argument2, ..):
 ```
@@ -37,7 +37,7 @@ for example :
 4. creating Instances:
  anu = Child()
 
- 5. Make a list
+ 5. Make a list of
  movies = [m1,m2,m3,m4,m5]
 
 # Resources
